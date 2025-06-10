@@ -1,0 +1,20 @@
+[
+  {
+    "id": "diwali",
+    "name": "Diwali",
+    "country": "India",
+    "date": "October-November",
+    "description": "Festival of Lights celebrated across India.",
+    "media": "/assets/diwali.jpg",
+    "audio": "/assets/diwali.mp3"
+  },
+  {
+    "id": "rio-carnival",
+    "name": "Rio Carnival",
+    "country": "Brazil",
+    "date": "February",
+    "description": "World’s biggest carnival with vibrant samba parades.",
+    "media": "/assets/rio-carnival.jpg",
+    "audio": "/assets/rio-drums.mp3"
+  }
+]
