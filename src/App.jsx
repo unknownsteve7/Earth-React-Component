@@ -50,7 +50,7 @@ function Home() {
         <h2 className="text-xl text-white/100">↑Explore</h2>
       </div></a> */}
       <div className="absolute bottom-4 right-10 p-4 text-white">
-        <p className="text-sm">Made with ❤️ by <a href="" className="text-blue-400 hover:underline">Mohan</a></p>
+        <p className="text-sm">Made with ❤️ by <a href="https://github.com/unknownsteve7/Earth-React-Component" className="text-blue-400 hover:underline">Mohan</a></p>
       </div>
     </main>
   );
