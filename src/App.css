@@ -1,0 +1,14 @@
+
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden; 
+  padding: 0;
+  scrollbar-width: none; 
+  -ms-overflow-style: none; 
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
