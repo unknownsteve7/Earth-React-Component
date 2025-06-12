@@ -24,3 +24,5 @@ A visually stunning, animated Earth component built with React and `three.js` / 
 - **styled-components / Tailwind CSS** (for styling)
 
 ---
+## Live Demo
+https://serene-earth.netlify.app/
