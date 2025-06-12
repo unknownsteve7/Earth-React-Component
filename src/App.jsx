@@ -2,7 +2,7 @@ import React from 'react';
 import { Canvas } from '@react-three/fiber';
 import { OrbitControls } from '@react-three/drei';
 import DestinationPage from './components/destinationPage';
-import Starfield from './components/StarField';
+import Starfield from './components/Starfield';
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import AnimatedGlobe from './components/AnimatedGlobe';
